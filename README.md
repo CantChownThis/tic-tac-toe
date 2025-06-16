@@ -1,6 +1,6 @@
 # Tic Tac Toe Web Application
 
-This repository contains a full-stack Tic Tac Toe game with the following components, each folder has it's own README file with instructions:
+This repository contains a full-stack Tic Tac Toe game with the following components, **each folder has it's own README file with instructions**:
 
 - 🟦 **Frontend** – A React.js app for the user interface  
 - 🟧 **Backend** – An Express.js API server for managing game sessions, user authetication and interaction  
